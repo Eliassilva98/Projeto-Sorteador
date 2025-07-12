@@ -16,3 +16,8 @@ Ou simplesmente brincar com a sorte 🎲
 Não tem segredo: é abrir, clicar e ver o número aparecer na tela. Fácil, rápido e divertido!
 
 Porque às vezes, deixar o destino decidir é a melhor escolha! 😄
+<br>
+<br>
+<img src="https://github.com/Eliassilva98/Projeto-Sorteador/blob/main/Projeto%20Sorteador.png?raw=true" />
+
+acesse o link e faça seu sorteio 👉
