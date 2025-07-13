@@ -20,4 +20,4 @@ Porque às vezes, deixar o destino decidir é a melhor escolha! 😄
 <br>
 <img src="https://github.com/Eliassilva98/Projeto-Sorteador/blob/main/Projeto%20Sorteador.png?raw=true" />
 
-acesse o link e faça seu sorteio 👉
+acesse o link e faça seu sorteio 👉 <a href="https://eliassilva98.github.io/Projeto-Sorteador/">Clicando aqui<a />
